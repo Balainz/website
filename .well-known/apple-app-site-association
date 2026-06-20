@@ -1,0 +1,8 @@
+{
+  "applinks": {
+    "details": [{
+      "appIDs": ["7U4DPAF88M.com.balainz.app"],
+      "components": [{ "/": "/auth/github/*" }]
+    }]
+  }
+}
